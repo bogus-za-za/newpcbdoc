@@ -1,0 +1,24 @@
+{
+  "id": "学习路线/基础电路设计/1.1 PCB 典型结构",
+  "title": "PCB 典型结构（双层板）",
+  "description": "以下是双层 PCB 的典型结构，包含主要组成部分：",
+  "source": "@site/docs/学习路线/1.基础电路设计/1.1 PCB 典型结构.md",
+  "sourceDirName": "学习路线/1.基础电路设计",
+  "slug": "/学习路线/基础电路设计/1.1 PCB 典型结构",
+  "permalink": "/docs/学习路线/基础电路设计/1.1 PCB 典型结构",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/学习路线/1.基础电路设计/1.1 PCB 典型结构.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "单位换算",
+    "permalink": "/docs/嘉立创操作/单位换算"
+  },
+  "next": {
+    "title": "PCB加工工艺介绍",
+    "permalink": "/docs/学习路线/基础电路设计/1.2 PCB的加工工艺"
+  }
+}

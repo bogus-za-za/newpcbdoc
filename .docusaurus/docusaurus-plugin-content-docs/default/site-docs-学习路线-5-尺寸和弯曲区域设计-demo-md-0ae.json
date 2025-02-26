@@ -1,0 +1,24 @@
+{
+  "id": "学习路线/尺寸和弯曲区域设计/demo",
+  "title": "demo",
+  "description": "示例标题",
+  "source": "@site/docs/学习路线/5.尺寸和弯曲区域设计/demo.md",
+  "sourceDirName": "学习路线/5.尺寸和弯曲区域设计",
+  "slug": "/学习路线/尺寸和弯曲区域设计/demo",
+  "permalink": "/docs/学习路线/尺寸和弯曲区域设计/demo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/学习路线/5.尺寸和弯曲区域设计/demo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "demo",
+    "permalink": "/docs/学习路线/设计规则检查（DRC）/demo"
+  },
+  "next": {
+    "title": "demo",
+    "permalink": "/docs/学习路线/选择合适的材料和厚度/demo"
+  }
+}

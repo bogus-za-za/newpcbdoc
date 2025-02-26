@@ -1,0 +1,108 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "FPC板制作规范及工艺流程/单位换算",
+          "docs": [
+            {
+              "id": "嘉立创操作/单位换算",
+              "path": "/docs/嘉立创操作/单位换算",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/层叠设计与布线/demo",
+              "path": "/docs/学习路线/层叠设计与布线/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/尺寸和弯曲区域设计/demo",
+              "path": "/docs/学习路线/尺寸和弯曲区域设计/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/基础电路设计/1.1 PCB 典型结构",
+              "path": "/docs/学习路线/基础电路设计/1.1 PCB 典型结构",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/基础电路设计/1.2 PCB的加工工艺",
+              "path": "/docs/学习路线/基础电路设计/1.2 PCB的加工工艺",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/基础电路设计/基本认知",
+              "path": "/docs/学习路线/基础电路设计/基本认知",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/模拟与分析/demo",
+              "path": "/docs/学习路线/模拟与分析/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/设计规则检查（DRC）/demo",
+              "path": "/docs/学习路线/设计规则检查（DRC）/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/输出Gerber文件与BOM/demo",
+              "path": "/docs/学习路线/输出Gerber文件与BOM/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/信号完整性和电源设计/demo",
+              "path": "/docs/学习路线/信号完整性和电源设计/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/选择合适的材料和厚度/demo",
+              "path": "/docs/学习路线/选择合适的材料和厚度/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/原理图构成",
+              "path": "/docs/学习路线/原理图构成",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/原理图与PCB布局/demo",
+              "path": "/docs/学习路线/原理图与PCB布局/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "学习路线/FPC特殊设计要求/demo",
+              "path": "/docs/学习路线/FPC特殊设计要求/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FPC板制作规范及工艺流程/单位换算",
+              "path": "/docs/FPC板制作规范及工艺流程/单位换算",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FPC板制作规范及工艺流程/嘉立创工厂制作规范",
+              "path": "/docs/FPC板制作规范及工艺流程/嘉立创工厂制作规范",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/FPC板制作规范及工艺流程/单位换算",
+                "label": "FPC板制作规范及工艺流程/单位换算"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

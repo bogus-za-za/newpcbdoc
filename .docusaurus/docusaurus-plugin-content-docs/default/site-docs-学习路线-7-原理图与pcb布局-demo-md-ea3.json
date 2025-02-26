@@ -1,0 +1,24 @@
+{
+  "id": "学习路线/原理图与PCB布局/demo",
+  "title": "demo",
+  "description": "示例标题",
+  "source": "@site/docs/学习路线/7.原理图与PCB布局/demo.md",
+  "sourceDirName": "学习路线/7.原理图与PCB布局",
+  "slug": "/学习路线/原理图与PCB布局/demo",
+  "permalink": "/docs/学习路线/原理图与PCB布局/demo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/学习路线/7.原理图与PCB布局/demo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "demo",
+    "permalink": "/docs/学习路线/选择合适的材料和厚度/demo"
+  },
+  "next": {
+    "title": "demo",
+    "permalink": "/docs/学习路线/信号完整性和电源设计/demo"
+  }
+}

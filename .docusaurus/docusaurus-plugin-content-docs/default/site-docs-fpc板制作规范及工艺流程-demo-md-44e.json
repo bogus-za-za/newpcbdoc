@@ -1,0 +1,20 @@
+{
+  "id": "FPC板制作规范及工艺流程/demo",
+  "title": "demo",
+  "description": "单位换算",
+  "source": "@site/docs/FPC板制作规范及工艺流程/demo.md",
+  "sourceDirName": "FPC板制作规范及工艺流程",
+  "slug": "/FPC板制作规范及工艺流程/demo",
+  "permalink": "/docs/FPC板制作规范及工艺流程/demo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/FPC板制作规范及工艺流程/demo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "单位换算",
+    "permalink": "/docs/嘉立创操作/单位换算"
+  }
+}

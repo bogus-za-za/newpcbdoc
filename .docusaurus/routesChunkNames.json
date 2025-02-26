@@ -1,0 +1,143 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/my-react-page-f2d": {
+    "__comp": "__comp---site-src-pages-my-react-page-jsf-85-e77",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---my-react-page-5-e-9-dcc"
+  },
+  "/docs-835": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-2f4": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-7c2": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/嘉立创操作/单位换算-391": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-嘉立创操作-单位换算-69-f-68f"
+  },
+  "/docs/学习路线/层叠设计与布线/demo-680": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-层叠设计与布线-demod-8-d-cb3"
+  },
+  "/docs/学习路线/尺寸和弯曲区域设计/demo-a5e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-尺寸和弯曲区域设计-demo-0-ae-85d"
+  },
+  "/docs/学习路线/基础电路设计/1.1 PCB 典型结构-a54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-基础电路设计-1-1-pcb-典型结构-8-c-0-dff"
+  },
+  "/docs/学习路线/基础电路设计/1.2 PCB的加工工艺-577": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-基础电路设计-1-2-pc-b的加工工艺-688-f3c"
+  },
+  "/docs/学习路线/基础电路设计/基本认知-b20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-基础电路设计-基本认知-66-f-345"
+  },
+  "/docs/学习路线/模拟与分析/demo-29e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-模拟与分析-demo-7-ed-e86"
+  },
+  "/docs/学习路线/设计规则检查（DRC）/demo-7df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-设计规则检查（drc）-demoe-18-601"
+  },
+  "/docs/学习路线/输出Gerber文件与BOM/demo-8de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-输出-gerber文件与-bom-democcc-c67"
+  },
+  "/docs/学习路线/信号完整性和电源设计/demo-054": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-信号完整性和电源设计-demo-668-a27"
+  },
+  "/docs/学习路线/选择合适的材料和厚度/demo-4e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-选择合适的材料和厚度-demo-234-341"
+  },
+  "/docs/学习路线/原理图构成-886": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-原理图构成-7-e-0-509"
+  },
+  "/docs/学习路线/原理图与PCB布局/demo-46a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-原理图与pcb布局-demoea-3-b75"
+  },
+  "/docs/学习路线/FPC特殊设计要求/demo-134": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-学习路线-fpc特殊设计要求-demo-7-da-112"
+  },
+  "/docs/FPC板制作规范及工艺流程/单位换算-2f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-fpc板制作规范及工艺流程-单位换算-4-ef-131"
+  },
+  "/docs/FPC板制作规范及工艺流程/嘉立创工厂制作规范-c9d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-fpc板制作规范及工艺流程-嘉立创工厂制作规范-4-e-5-22d"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---my-react-page-5-e-9-dcc"
+  }
+}

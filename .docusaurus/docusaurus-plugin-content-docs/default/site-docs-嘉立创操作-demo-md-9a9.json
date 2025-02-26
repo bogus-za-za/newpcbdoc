@@ -1,0 +1,24 @@
+{
+  "id": "嘉立创操作/demo",
+  "title": "demo",
+  "description": "单位换算",
+  "source": "@site/docs/嘉立创操作/demo.md",
+  "sourceDirName": "嘉立创操作",
+  "slug": "/嘉立创操作/demo",
+  "permalink": "/docs/嘉立创操作/demo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/嘉立创操作/demo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "demo",
+    "permalink": "/docs/FPC板制作规范及工艺流程/demo"
+  },
+  "next": {
+    "title": "PCB 典型结构（双层板）",
+    "permalink": "/docs/学习路线/基础电路设计/1.1 PCB 典型结构"
+  }
+}
